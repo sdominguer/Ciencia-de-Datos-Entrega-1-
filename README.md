@@ -73,7 +73,11 @@ El análisis se desarrolló siguiendo una metodología inspirada en **CRISP-DM**
 - **Jupyter Notebook**
 ---
 ## Estructura del repositorio
+## Estructura del repositorio
+
+```text
 /
 ├── Netflix.ipynb
 ├── README.md
 └── netflix_titles.csv
+
